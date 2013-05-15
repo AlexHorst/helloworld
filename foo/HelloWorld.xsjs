@@ -1,2 +1,2 @@
-$.response.setBody("Hello Alex");
+$.response.setBody("Hello Alex!");
  
