@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-$.response.setBody("Hello POKE1.0!");
+$.response.setBody("Hello POKE2.0!");
 <head>
 <script>
 function myFunction()
