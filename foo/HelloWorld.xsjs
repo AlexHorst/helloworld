@@ -1,8 +1,17 @@
+<!DOCTYPE html>
+<html>
 $.response.setBody("Hello POKE1.0!");
-<HTML>
-<HEAD>
-<TITLE>the horst family</TITLE>
-</HEAD>
-<BODY bgProperties=fixed>
-</BODY>
-</HTML>
+<head>
+<script>
+function myFunction()
+{
+alert("Hello! I am an alert box!");
+}
+</script>
+</head>
+<body>
+
+<input type="button" onclick="myFunction()" value="Show alert box" />
+
+</body>
+</html>
