@@ -1,1 +1,1 @@
-$.response.setBody("Hello POKE2.0!");
+$.response.setBody("Hello POKE2.0 !");
